@@ -25,6 +25,6 @@ def printer(names)
   assign_rooms(names).each do |room|
     puts room
   end
-=======
->>>>>>> c1b87fc0a5332d3acb9d71ad027339721e6bbc37
+# =======
+# >>>>>>> c1b87fc0a5332d3acb9d71ad027339721e6bbc37
 end
